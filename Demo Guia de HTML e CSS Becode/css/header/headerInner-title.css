@@ -1,0 +1,9 @@
+.header__inner--title {
+  color: #ffffff;
+  font-size: 3em;
+  font-weight: 900;
+  line-height: 70px;
+  margin: 0.67em 0;
+  text-transform: uppercase;
+  width: 100%;
+}

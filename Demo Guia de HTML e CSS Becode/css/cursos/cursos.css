@@ -1,0 +1,16 @@
+.cursos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-bottom: 3em;
+  position: relative;
+  top: -2em;
+  width: 80%;
+}
+
+@media (min-width: 1000px) {
+  .cursos {
+    width: 70%;
+  }
+}

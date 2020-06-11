@@ -1,0 +1,13 @@
+.cursos__card {
+  background: #ffffff;
+  border-radius: 5px;
+  margin-top: 2em;
+  text-align: center;
+  width: 100%;
+}
+
+@media (min-width: 660px) {
+  .cursos__card {
+    width: 48%;
+  }
+}
